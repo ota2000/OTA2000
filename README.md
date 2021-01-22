@@ -1,3 +1,5 @@
+[![sakatsu badge](https://img.shields.io/endpoint.svg?url=https://saunadge-gjqqouyuca-an.a.run.app/api/v1/badge/7812&style=flat-square)](https://sauna-ikitai.com/saunners/7812)
+
 ### Hi there 👋
 
 <!--
