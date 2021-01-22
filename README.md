@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+Data Engineer at Money Forward, Inc.
+
 <!--
 **OTA2000/OTA2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
