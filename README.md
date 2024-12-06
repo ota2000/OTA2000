@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 😼 Data Engineer at Money Forward, Inc.
+- 😼 Data Engineer
 
 ### Links
 
